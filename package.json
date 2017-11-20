@@ -1,0 +1,37 @@
+{
+  "name": "alfath-react-kit",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "next": "^4.1.4",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safeimuslim/alfath-react-kit.git"
+  },
+  "keywords": [
+    "alfath",
+    "starter",
+    "kit",
+    "nextjs"
+  ],
+  "author": "Safei Muslim <safeydev@gmail.com> (http://www.safeimuslim.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/safeimuslim/alfath-react-kit/issues"
+  },
+  "homepage": "https://github.com/safeimuslim/alfath-react-kit#readme"
+}
